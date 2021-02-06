@@ -1,7 +1,7 @@
 <!--
  * @Author: 33357
  * @Date: 2021-02-05 13:01:37
- * @LastEditTime: 2021-02-06 10:22:24
+ * @LastEditTime: 2021-02-06 10:26:17
  * @LastEditors: 33357
 -->
 
@@ -53,4 +53,4 @@ unichat-contract-public
 
 ## 开源协议
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE)
