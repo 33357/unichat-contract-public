@@ -1,7 +1,7 @@
 <!--
  * @Author: 33357
  * @Date: 2021-02-05 13:01:37
- * @LastEditTime: 2021-02-06 10:27:33
+ * @LastEditTime: 2021-02-06 11:03:26
  * @LastEditors: 33357
 -->
 
@@ -30,12 +30,14 @@ unichat 智能合约开源信息
 
 ## 项目结构
 
+```
 unichat-contract-public
 ├── contract                            //智能合约
 │   ├── group.sol                       //社群合约
 │   └── person.sol                      //用户合约
 ├── LICENSE                             //开源协议
 └── README.md                           //说明文档
+```
 
 ## 安装说明
 
